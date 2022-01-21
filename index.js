@@ -5,3 +5,4 @@ exports.checkMessage = check.checkMessage;
 exports.findSuspiciousLink = check.findSuspiciousLink;
 
 exports.listDomains = list.listDomains;
+exports.listSuspicious = list.listSuspicious;
